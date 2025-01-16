@@ -15,7 +15,7 @@ import (
 
 	"github.com/onsi/ginkgo/config"
 
-	"github.com/omegasuite/goleveldb/leveldb/comparer"
+	"github.com/zeusyf/goleveldb/leveldb/comparer"
 )
 
 var (

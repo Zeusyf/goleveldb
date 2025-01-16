@@ -9,9 +9,9 @@ package leveldb
 import (
 	"sync/atomic"
 
-	"github.com/omegasuite/goleveldb/leveldb/iterator"
-	"github.com/omegasuite/goleveldb/leveldb/memdb"
-	"github.com/omegasuite/goleveldb/leveldb/opt"
+	"github.com/zeusyf/goleveldb/leveldb/iterator"
+	"github.com/zeusyf/goleveldb/leveldb/memdb"
+	"github.com/zeusyf/goleveldb/leveldb/opt"
 )
 
 func (s *session) pickMemdbLevel(umin, umax []byte, maxLevel int) int {

@@ -1,7 +1,7 @@
-module github.com/omegasuite/goleveldb
+module github.com/zeusyf/goleveldb
 
 require (
-	github.com/omegasuite/snappy-go v1.0.0
+	github.com/zeusyf/snappy-go v1.0.0
 	github.com/onsi/ginkgo v1.6.0
 	github.com/onsi/gomega v1.4.1
 	golang.org/x/net v0.0.0-20180719180050-a680a1efc54d // indirect

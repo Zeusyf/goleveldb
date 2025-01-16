@@ -1,3 +1,3 @@
-module github.com/omegasuite/goleveldb/leveldb/opt
+module github.com/zeusyf/goleveldb/leveldb/opt
 
 go 1.22.1

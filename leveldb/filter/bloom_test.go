@@ -8,7 +8,7 @@ package filter
 
 import (
 	"encoding/binary"
-	"github.com/omegasuite/goleveldb/leveldb/util"
+	"github.com/zeusyf/goleveldb/leveldb/util"
 	"testing"
 )
 

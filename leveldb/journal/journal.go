@@ -82,9 +82,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/omegasuite/goleveldb/leveldb/errors"
-	"github.com/omegasuite/goleveldb/leveldb/storage"
-	"github.com/omegasuite/goleveldb/leveldb/util"
+	"github.com/zeusyf/goleveldb/leveldb/errors"
+	"github.com/zeusyf/goleveldb/leveldb/storage"
+	"github.com/zeusyf/goleveldb/leveldb/util"
 )
 
 // These constants are part of the wire format and should not be changed.

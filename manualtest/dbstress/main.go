@@ -19,12 +19,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/omegasuite/goleveldb/leveldb"
-	"github.com/omegasuite/goleveldb/leveldb/errors"
-	"github.com/omegasuite/goleveldb/leveldb/opt"
-	"github.com/omegasuite/goleveldb/leveldb/storage"
-	"github.com/omegasuite/goleveldb/leveldb/table"
-	"github.com/omegasuite/goleveldb/leveldb/util"
+	"github.com/zeusyf/goleveldb/leveldb"
+	"github.com/zeusyf/goleveldb/leveldb/errors"
+	"github.com/zeusyf/goleveldb/leveldb/opt"
+	"github.com/zeusyf/goleveldb/leveldb/storage"
+	"github.com/zeusyf/goleveldb/leveldb/table"
+	"github.com/zeusyf/goleveldb/leveldb/util"
 )
 
 var (

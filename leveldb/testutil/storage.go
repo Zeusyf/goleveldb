@@ -19,7 +19,7 @@ import (
 
 	. "github.com/onsi/gomega"
 
-	"github.com/omegasuite/goleveldb/leveldb/storage"
+	"github.com/zeusyf/goleveldb/leveldb/storage"
 )
 
 var (

@@ -1,3 +1,3 @@
-module github.com/omegasuite/goleveldb/leveldb/iterator
+module github.com/zeusyf/goleveldb/leveldb/iterator
 
 go 1.22.1

@@ -10,9 +10,9 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/omegasuite/goleveldb/leveldb/comparer"
-	. "github.com/omegasuite/goleveldb/leveldb/iterator"
-	"github.com/omegasuite/goleveldb/leveldb/testutil"
+	"github.com/zeusyf/goleveldb/leveldb/comparer"
+	. "github.com/zeusyf/goleveldb/leveldb/iterator"
+	"github.com/zeusyf/goleveldb/leveldb/testutil"
 )
 
 var _ = testutil.Defer(func() {

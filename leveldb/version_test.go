@@ -7,7 +7,7 @@ import (
 
 	"github.com/onsi/gomega"
 
-	"github.com/omegasuite/goleveldb/leveldb/testutil"
+	"github.com/zeusyf/goleveldb/leveldb/testutil"
 )
 
 type testFileRec struct {
