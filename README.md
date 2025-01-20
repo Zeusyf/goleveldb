@@ -9,7 +9,7 @@ convenience.
 Installation
 -----------
 
-	go get github.com/btcsuite/goleveldb/leveldb
+	go get github.com/zeusyf/goleveldb/leveldb
 
 Requirements
 -----------
@@ -108,4 +108,4 @@ defer db.Close()
 Documentation
 -----------
 
-You can read package documentation [here](http:godoc.org/github.com/btcsuite/goleveldb).
+You can read package documentation [here](http:godoc.org/github.com/zeusyf/goleveldb).
